@@ -1,0 +1,128 @@
+2025-09-24 14:01:19 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:01:19 - Lock file created. Starting backup process.
+2025-09-24 14:01:19 - Starting backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup to /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-01-19.tar.gz.
+2025-09-24 14:01:19 - SUCCESS: Backup created successfully. Size: 4.0K.
+2025-09-24 14:01:19 - Cleaning up backups older than 7 days in /home/adrwal/praca-grid/linux-t1-t2/backups...
+2025-09-24 14:01:19 - Cleanup complete. Deleted 0 old backup(s).
+2025-09-24 14:01:19 - Backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup completed successfully.
+
+    Archive: /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-01-19.tar.gz
+    Size: 4.0K
+    Old backups deleted: 0
+
+    Log file is available at /home/adrwal/praca-grid/linux-t1-t2/backup.log.
+2025-09-24 14:01:19 - Sent email notification to olek.drwal@gmail.com with subject: Backup SUCCESSFUL for /home/adrwal/praca-grid/linux-t1-t2/data_to_backup
+2025-09-24 14:01:19 - Script finished. Removing lock file.
+2025-09-24 14:16:10 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:16:11 - Lock file created. Starting backup process.
+2025-09-24 14:16:11 - Starting backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup to /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-16-11.tar.gz.
+2025-09-24 14:16:11 - SUCCESS: Backup created successfully. Size: 4.0K.
+2025-09-24 14:16:11 - Cleaning up backups older than 7 days in /home/adrwal/praca-grid/linux-t1-t2/backups...
+2025-09-24 14:16:11 - Cleanup complete. Deleted 0 old backup(s).
+2025-09-24 14:16:11 - Backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup completed successfully.
+
+    Archive: /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-16-11.tar.gz
+    Size: 4.0K
+    Old backups deleted: 0
+
+    Log file is available at /home/adrwal/praca-grid/linux-t1-t2/backup.log.
+2025-09-24 14:16:12 - Sent email notification to olek.drwal@gmail.com with subject: Backup SUCCESSFUL for /home/adrwal/praca-grid/linux-t1-t2/data_to_backup
+2025-09-24 14:16:12 - Script finished. Removing lock file.
+2025-09-24 14:16:44 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:16:44 - Lock file created. Starting backup process.
+2025-09-24 14:16:44 - Starting backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup to /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-16-44.tar.gz.
+2025-09-24 14:16:44 - SUCCESS: Backup created successfully. Size: 4.0K.
+2025-09-24 14:16:44 - Cleaning up backups older than 7 days in /home/adrwal/praca-grid/linux-t1-t2/backups...
+2025-09-24 14:16:44 - Cleanup complete. Deleted 0 old backup(s).
+2025-09-24 14:16:44 - Backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup completed successfully.
+
+    Archive: /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-16-44.tar.gz
+    Size: 4.0K
+    Old backups deleted: 0
+
+    Log file is available at /home/adrwal/praca-grid/linux-t1-t2/backup.log.
+2025-09-24 14:16:46 - Sent email notification to adrwal@griddynamics.com with subject: Backup SUCCESSFUL for /home/adrwal/praca-grid/linux-t1-t2/data_to_backup
+2025-09-24 14:16:46 - Script finished. Removing lock file.
+2025-09-24 14:16:58 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:16:58 - Lock file created. Starting backup process.
+2025-09-24 14:16:58 - Starting backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup to /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-16-58.tar.gz.
+2025-09-24 14:16:58 - SUCCESS: Backup created successfully. Size: 4.0K.
+2025-09-24 14:16:58 - Cleaning up backups older than 7 days in /home/adrwal/praca-grid/linux-t1-t2/backups...
+2025-09-24 14:16:58 - Cleanup complete. Deleted 0 old backup(s).
+2025-09-24 14:16:58 - Backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup completed successfully.
+
+    Archive: /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-16-58.tar.gz
+    Size: 4.0K
+    Old backups deleted: 0
+
+    Log file is available at /home/adrwal/praca-grid/linux-t1-t2/backup.log.
+2025-09-24 14:16:59 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:16:59 - ERROR: Lock file exists. Another backup process may be running.
+2025-09-24 14:16:59 - Script finished. Removing lock file.
+2025-09-24 14:17:01 - Sent email notification to adrwal@griddynamics.com with subject: Backup SUCCESSFUL for /home/adrwal/praca-grid/linux-t1-t2/data_to_backup
+2025-09-24 14:17:01 - Script finished. Removing lock file.
+2025-09-24 14:17:15 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:17:15 - Lock file created. Starting backup process.
+2025-09-24 14:17:15 - Starting backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup to /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-17-15.tar.gz.
+2025-09-24 14:17:15 - SUCCESS: Backup created successfully. Size: 4.0K.
+2025-09-24 14:17:15 - Cleaning up backups older than 7 days in /home/adrwal/praca-grid/linux-t1-t2/backups...
+2025-09-24 14:17:15 - Cleanup complete. Deleted 0 old backup(s).
+2025-09-24 14:17:15 - Backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup completed successfully.
+
+    Archive: /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-17-15.tar.gz
+    Size: 4.0K
+    Old backups deleted: 0
+
+    Log file is available at /home/adrwal/praca-grid/linux-t1-t2/backup.log.
+2025-09-24 14:17:15 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:17:15 - ERROR: Lock file exists. Another backup process may be running.
+2025-09-24 14:17:15 - Script finished. Removing lock file.
+2025-09-24 14:17:15 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:17:15 - Lock file created. Starting backup process.
+2025-09-24 14:17:15 - Starting backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup to /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-17-15.tar.gz.
+2025-09-24 14:17:15 - SUCCESS: Backup created successfully. Size: 4.0K.
+2025-09-24 14:17:15 - Cleaning up backups older than 7 days in /home/adrwal/praca-grid/linux-t1-t2/backups...
+2025-09-24 14:17:15 - Cleanup complete. Deleted 0 old backup(s).
+2025-09-24 14:17:15 - Backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup completed successfully.
+
+    Archive: /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-17-15.tar.gz
+    Size: 4.0K
+    Old backups deleted: 0
+
+    Log file is available at /home/adrwal/praca-grid/linux-t1-t2/backup.log.
+2025-09-24 14:17:16 - Sent email notification to adrwal@griddynamics.com with subject: Backup SUCCESSFUL for /home/adrwal/praca-grid/linux-t1-t2/data_to_backup
+2025-09-24 14:17:16 - Script finished. Removing lock file.
+2025-09-24 14:17:19 - Sent email notification to adrwal@griddynamics.com with subject: Backup SUCCESSFUL for /home/adrwal/praca-grid/linux-t1-t2/data_to_backup
+2025-09-24 14:17:19 - Script finished. Removing lock file.
+2025-09-24 14:20:34 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:20:34 - Lock file created. Starting backup process.
+2025-09-24 14:20:34 - Starting backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup to /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-20-34.tar.gz.
+2025-09-24 14:20:34 - SUCCESS: Backup created successfully. Size: 4.0K.
+2025-09-24 14:20:34 - Cleaning up backups older than 7 days in /home/adrwal/praca-grid/linux-t1-t2/backups...
+2025-09-24 14:20:34 - Cleanup complete. Deleted 0 old backup(s).
+2025-09-24 14:20:34 - Backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup completed successfully.
+
+    Archive: /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-20-34.tar.gz
+    Size: 4.0K
+    Old backups deleted: 0
+
+    Log file is available at /home/adrwal/praca-grid/linux-t1-t2/backup.log.
+2025-09-24 14:20:35 - Sent email notification to adrwal@griddynamics.com with subject: Backup SUCCESSFUL for /home/adrwal/praca-grid/linux-t1-t2/data_to_backup
+2025-09-24 14:20:35 - Script finished. Removing lock file.
+2025-09-24 14:20:41 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:20:41 - Lock file created. Starting backup process.
+2025-09-24 14:20:41 - Starting backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup to /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-20-41.tar.gz.
+2025-09-24 14:20:41 - SUCCESS: Backup created successfully. Size: 4.0K.
+2025-09-24 14:20:41 - Cleaning up backups older than 7 days in /home/adrwal/praca-grid/linux-t1-t2/backups...
+2025-09-24 14:20:41 - Cleanup complete. Deleted 0 old backup(s).
+2025-09-24 14:20:41 - Backup of /home/adrwal/praca-grid/linux-t1-t2/data_to_backup completed successfully.
+
+    Archive: /home/adrwal/praca-grid/linux-t1-t2/backups/backup_2025-09-24_14-20-41.tar.gz
+    Size: 4.0K
+    Old backups deleted: 0
+
+    Log file is available at /home/adrwal/praca-grid/linux-t1-t2/backup.log.
+2025-09-24 14:20:42 - Configuration loaded from /home/adrwal/praca-grid/linux-t1-t2/backup.conf.
+2025-09-24 14:20:42 - ERROR: Lock file exists. Another backup process may be running. Exiting.
+2025-09-24 14:20:43 - Sent email notification to adrwal@griddynamics.com with subject: Backup SUCCESSFUL for /home/adrwal/praca-grid/linux-t1-t2/data_to_backup
+2025-09-24 14:20:43 - Script finished. Removing lock file.

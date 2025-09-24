@@ -1,0 +1,10 @@
+[Unit]
+Description=A script to perform daily backups
+Wants=backup.timer
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /home/adrwal/praca-grid/linux-t1-t2/backup.sh
+
+[Install]
+WantedBy=multi-user.target
