@@ -9,7 +9,8 @@ LOCK_FILE="/home/adrwal/praca-grid/linux-t1-t2/backup.lock"
 
 log_message() {
     local message="$1"
-    echo "$(date '+%Y-%m-%d %H:%M:%S') - ${message}" | tee -a "${LOG_FILE}"
+    local pid="$$"
+    echo "[${pid}] $(date '+%Y-%m-%d %H:%M:%S') - ${message}" | tee -a "${LOG_FILE}"
 }
 
 show_help() {
